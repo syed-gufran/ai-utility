@@ -1,4 +1,5 @@
-python-dotenv
 streamlit
-streamlit-options-menu
+streamlit-option-menu
+python-dotenv
+pillow
 google-genai
